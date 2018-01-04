@@ -1,0 +1,1 @@
+# maven-java-file-with-pom-file
